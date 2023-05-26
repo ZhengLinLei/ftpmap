@@ -115,7 +115,7 @@ python -m ftpmap
 
 ### From release
 
-Download the latest release from [here]()
+Download the latest release from [here](https://github.com/ZhengLinLei/ftpmap/releases/)
 
 1. Unzip the file
 2. Open the executable
