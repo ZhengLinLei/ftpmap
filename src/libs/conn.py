@@ -50,11 +50,11 @@ class FTPConn:
                 print("PASSWORD:        " + password)
                 print("--------------------------")
 
-            # ftp = ftplib.FTP(self.HOST)
-            # ftp.login(username, password)
-            # ftp.quit()
+            ftp = ftplib.FTP(self.HOST)
+            ftp.login(username, password)
+            ftp.quit()
 
-            return True if username=='ftp' and password=='ftp' else False
+            # return True if username=='ftp' and password=='ftp' else False
         except:
             return False
         
