@@ -17,7 +17,7 @@
 
 
 # @author: ZhengLinLei
-version = '1.0.0b'
+version = '1.0.0'
 
 
 
