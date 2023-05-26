@@ -1,0 +1,1 @@
+[Donwload it](https://github.com/ZhengLinLei/ftpmap/releases/tag/v1.0)
