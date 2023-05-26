@@ -113,7 +113,7 @@ Run the program with the following command:
 python -m ftpmap
 ```
 
-### From release (MacOS only)
+### From release
 
 Download the latest release from [here]()
 
@@ -128,6 +128,15 @@ unzip ftpmap-macos.zip
 
 ```bash
 ./ftpmap
+```
+
+For Windows users:
+```bash
+unzip ftpmap-windows.zip
+```
+
+```bash
+ftpmap.exe
 ```
 
 
